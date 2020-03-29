@@ -1,0 +1,23 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "Jan 2015 - Oct 2015",
+			"company" : "PUC Campinas",
+			"website": "https://www.puc-campinas.edu.br/",
+			"description" : "Scientific research using Python to control wireless sensor network"
+		},
+		{
+			"timeperiod" : "Oct 2015 - Apr 2018",
+			"company" : "Indra",
+			"website" : "https://www.indracompany.com/",
+			"description" : "Java developer"
+		},
+		{
+			"timeperiod" : "May 2018 - Present",
+			"company" : "Dextra Digital",
+			"website" : "https://dextra.com.br/pt/",
+			"description" : "Full stack developer"
+		}
+	]
+}

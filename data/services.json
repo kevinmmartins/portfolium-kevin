@@ -1,0 +1,47 @@
+{
+	"title" : "Projects",
+	"services" : [
+		{
+			"icon" : "file-code",
+			"title" : "Globoplay CX",
+			"description" : "Customer Experience improvements",
+			"website" : "https://globoplay.globo.com/"
+		},
+		{
+			"icon" : "file-code",
+			"title" : "Globoplay International",
+			"description" : "Provides Globoplay to United States",
+			"website" : "https://globoplay.globo.com/"
+		},
+		{
+			"icon" : "file-code",
+			"title" : "Enforce integrador",
+			"description" : "Break a Java Monolith into Python Microservices",
+			"website" : "https://integrador.enforcegroup.com.br/"
+		},
+		{
+			"icon" : "file-code",
+			"title" : "Thing Provider",
+			"description" : "Let's connect all things !",
+			"website": "https://github.com/kevinmmartins/ThingProvider"
+		},
+		{
+			"icon" : "file-code",
+			"title" : "ICTS outsourcing Portal",
+			"description" : "Modules segregation and integration with ADFS",
+			"website" : "https://canaldedenuncias.com.br/"
+		},
+		{
+			"icon" : "file-code",
+			"title" : "Zeus ESB",
+			"description" : "ESB creation to Zeus platform",
+			"website" : "http://innovationenergy.org/newsletter/html/content/february/4-wfm-en.html"
+		},
+		{
+			"icon" : "file-code",
+			"title" : "MyQuarium",
+			"description" : "Smart system for monitoring aquariums",
+			"website" : "https://github.com/kevinmmartins/MyQuarium"
+		}
+	]
+}
