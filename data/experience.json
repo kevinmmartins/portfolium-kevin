@@ -14,7 +14,13 @@
 			"description" : "Java developer"
 		},
 		{
-			"timeperiod" : "May 2018 - Present",
+			"timeperiod" : "May 2018 - Nov 2020",
+			"company" : "Dextra Digital",
+			"website" : "https://dextra.com.br/pt/",
+			"description" : "Senior Full Stack developer"
+		},
+		{
+			"timeperiod" : "Nov 2020 - Present",
 			"company" : "Dextra Digital",
 			"website" : "https://dextra.com.br/pt/",
 			"description" : "Tech Lead"
