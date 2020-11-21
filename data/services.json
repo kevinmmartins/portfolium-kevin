@@ -3,6 +3,12 @@
 	"services" : [
 		{
 			"icon" : "file-code",
+			"title" : "Globoplay Disney + integration",
+			"description" : "Import the Disney Titles to create Globoplay offers",
+			"website" : "https://globoplay.globo.com/"
+		},
+		{
+			"icon" : "file-code",
 			"title" : "Globoplay CX",
 			"description" : "Customer Experience improvements",
 			"website" : "https://globoplay.globo.com/"
