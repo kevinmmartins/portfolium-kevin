@@ -3,8 +3,8 @@
 	"services" : [
 		{
 			"icon" : "file-code",
-			"title" : "Globoplay Disney + integration",
-			"description" : "Import the Disney Titles to create Globoplay offers",
+			"title" : "Globoplay Combo with Disney +",
+			"description" : "Import the Disney + Titles to create Globoplay offers",
 			"website" : "https://globoplay.globo.com/"
 		},
 		{
