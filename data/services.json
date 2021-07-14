@@ -3,6 +3,18 @@
 	"services" : [
 		{
 			"icon" : "file-code",
+			"title" : "Globoplay Backend Core",
+			"description" : "Backend architecture ",
+			"website" : "https://globoplay.globo.com/"
+		},
+		{
+			"icon" : "file-code",
+			"title" : "Globoplay Podcasts",
+			"description" : "Create podcasts offers",
+			"website" : "https://globoplay.globo.com/"
+		},
+		{
+			"icon" : "file-code",
 			"title" : "Globoplay Combo with Disney +",
 			"description" : "Import the Disney + Titles to create Globoplay offers",
 			"website" : "https://globoplay.globo.com/"
