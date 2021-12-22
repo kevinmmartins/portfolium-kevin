@@ -20,10 +20,16 @@
 			"description" : "Senior Full Stack developer"
 		},
 		{
-			"timeperiod" : "Nov 2020 - Present",
+			"timeperiod" : "Nov 2020 - Dec 2021",
 			"company" : "Dextra Digital",
 			"website" : "https://dextra.com.br/pt/",
 			"description" : "Tech Lead"
+		},
+		{
+			"timeperiod" : "Dec 2021 - Present",
+			"company" : "CI&T",
+			"website" : "https://ciandt.com/us/en-us",
+			"description" : "Senior Software Architect"
 		}
 	]
 }
