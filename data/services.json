@@ -3,7 +3,7 @@
 	"services" : [
 		{
 			"icon" : "file-code",
-			"title" : "Globoplay - GraphQL Federation Services",
+			"title" : "Globoplay - GraphQL Federation",
 			"description" : "Converting microservices into federated subgraphs",
 			"website" : "https://globoplay.globo.com/"
 		},
