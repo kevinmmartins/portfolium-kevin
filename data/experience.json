@@ -26,10 +26,16 @@
 			"description" : "Tech Lead"
 		},
 		{
-			"timeperiod" : "Dec 2021 - Present",
+			"timeperiod" : "Dec 2021 - Dec 2022",
 			"company" : "CI&T",
 			"website" : "https://ciandt.com/us/en-us",
 			"description" : "Systems Architect | Tech Lead"
+		},
+		{
+			"timeperiod" : "Dec 2022 - Present",
+			"company" : "Mercado Livre",
+			"website" : "https://www.mercadolivre.com.br/",
+			"description" : "Software Technical Leader"
 		}
 	]
 }
