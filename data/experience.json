@@ -2,12 +2,6 @@
 	"title" : "Experience",
 	"experience" : [
 		{
-			"timeperiod" : "Jan 2015 - Oct 2015",
-			"company" : "PUC Campinas",
-			"website": "https://www.puc-campinas.edu.br/",
-			"description" : "Scientific research using Python to control wireless sensor network"
-		},
-		{
 			"timeperiod" : "Oct 2015 - Apr 2018",
 			"company" : "Indra",
 			"website" : "https://www.indracompany.com/",
@@ -32,10 +26,16 @@
 			"description" : "Systems Architect | Tech Lead"
 		},
 		{
-			"timeperiod" : "Dec 2022 - Present",
+			"timeperiod" : "Dec 2022 - Jan 2025",
 			"company" : "Mercado Livre",
 			"website" : "https://www.mercadolivre.com.br/",
 			"description" : "Software Technical Leader"
+		},
+		{
+			"timeperiod" : "Jan 2025 - Present",
+			"company" : "Mercado Livre",
+			"website" : "https://www.mercadolivre.com.br/",
+			"description" : "Software Expert - Tech Manager"
 		}
 	]
 }
